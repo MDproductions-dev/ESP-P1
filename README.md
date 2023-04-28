@@ -13,7 +13,7 @@ Values to be changed:
 boot.py: 
 | Variable       | Description       | Example value  |
 | ------------- |:-------------:| --------------:|
-| network_ssid    | The ssid of your wifi network | Ziggo1234 |
+| network_ssid    | The ssid of your wifi network. | Ziggo1234 |
 | network_password    | The password of your wifi network.      |   Wifi1234 |
 
 main.py:
