@@ -1,7 +1,7 @@
 # Please keep in mind the MIT licence and credit appropriately when you use this in a (commercial) project. 
 This code is made public to help other people in our project class with reading the P1 data, it may not fit your needs.
 
-# F1-ESP
+# ESP-P1
 Code for reading data from a dutch smart meter's P1 port with an ESP32 running micropython.
 
 The raw data lines will be sent in an array to the specified url.
