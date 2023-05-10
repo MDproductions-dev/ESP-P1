@@ -1,5 +1,5 @@
 # Please keep in mind the MIT licence and credit appropriately when you use this in a (commercial) project. 
-# © PowerChainger Project Group F1 (Hanzehogeschool groningen)
+# © PowerChainger Project Group F1 (Hanze University Of Applied Sciences)
 This code is made public to help other people in our project class with reading the P1 data, it may not fit your needs.
 
 # ESP-P1
